@@ -1,0 +1,7 @@
+[2022-06-27T22:04:18.860] [ERROR] default - ReferenceError: res is not defined - Hubo un error en ruta / metodo GET implementada
+[2022-06-27T22:06:30.306] [ERROR] default - ReferenceError: res is not defined - Hubo un error en ruta / metodo GET implementada
+[2022-06-27T22:08:44.738] [ERROR] default - ReferenceError: res is not defined - Hubo un error en ruta / metodo GET implementada
+[2022-06-27T22:08:57.494] [ERROR] default - ReferenceError: res is not defined - Hubo un error en ruta / metodo GET implementada
+[2022-06-27T22:44:04.361] [ERROR] default - ReferenceError: res is not defined - Hubo un error en ruta / metodo GET implementada
+[2022-06-27T22:44:24.047] [ERROR] default - ReferenceError: res is not defined - Hubo un error en ruta / metodo GET implementada
+[2022-06-27T23:06:49.667] [ERROR] default - TypeError: ctx.render is not a function - Hubo un error en ruta /api/productos metodo GET implementada
